@@ -1,0 +1,408 @@
+0000.000 (0) Opened log file at time: Sun, 15 Jun 2025 14:23:00 +0000 on http://localhost:8000
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.1 PHP: 8.2.28 (apache2handler, Linux 459e97aee033 6.10.14-linuxkit #1 SMP Sat May 17 08:28:57 UTC 2025 aarch64) MySQL: 8.0.42 (max packet size=67108864) WPLANG: zh_TW Server: Apache/2.4.62 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9M | 12M) multisite: N openssl: OpenSSL 3.0.16 11 Feb 2025 mcrypt: N LANG: C WP Proxy: disabled ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 40533.9 MB
+0000.007 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.009 (0) Semaphore (fd, wp_options) being initialised
+0000.013 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.017 (0) Set semaphore last lock (fd) time to 2025-06-15 14:23:00
+0000.018 (0) Semaphore lock (fd) complete
+0000.022 (0) Backup run: resumption=0, nonce=4ba177c2c047, file_nonce=4ba177c2c047 begun at=1749997380 (0s ago), job type=backup
+0000.025 (0) Scheduling a resumption (1) after 300 seconds (1749997680) in case this run gets aborted
+0000.052 (0) Checking if we have a zip executable available
+0000.056 (0) Creation of backups of directories: beginning
+0000.060 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.830 (0) Total entities for the zip file: 2042 directories, 10608 files (0 skipped as non-modified), 160.1 MB
+0000.838 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.844 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.849 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.854 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.859 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.864 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.869 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.874 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.879 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.883 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.884 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.3 MB, 10608 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0001.945 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1100 files added (on-disk size: 4473.1 KB)
+0001.950 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1200 files added (on-disk size: 4473.1 KB)
+0001.955 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1300 files added (on-disk size: 4473.1 KB)
+0001.960 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1400 files added (on-disk size: 4473.1 KB)
+0001.965 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1500 files added (on-disk size: 4473.1 KB)
+0001.969 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1600 files added (on-disk size: 4473.1 KB)
+0001.974 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1700 files added (on-disk size: 4473.1 KB)
+0001.979 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1800 files added (on-disk size: 4473.1 KB)
+0001.983 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 1900 files added (on-disk size: 4473.1 KB)
+0001.988 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2000 files added (on-disk size: 4473.1 KB)
+0001.989 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.8 MB, 10608 files batched, 1001 (2002) added so far); re-opening (prior size: 4473.1 KB)
+0002.826 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2100 files added (on-disk size: 13217.1 KB)
+0002.831 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2200 files added (on-disk size: 13217.1 KB)
+0002.836 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2300 files added (on-disk size: 13217.1 KB)
+0002.841 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2400 files added (on-disk size: 13217.1 KB)
+0002.847 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2500 files added (on-disk size: 13217.1 KB)
+0002.851 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2600 files added (on-disk size: 13217.1 KB)
+0002.857 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2700 files added (on-disk size: 13217.1 KB)
+0002.863 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2800 files added (on-disk size: 13217.1 KB)
+0002.868 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 2900 files added (on-disk size: 13217.1 KB)
+0002.873 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3000 files added (on-disk size: 13217.1 KB)
+0002.875 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.5 MB, 10608 files batched, 1001 (3003) added so far); re-opening (prior size: 13217.1 KB)
+0003.631 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3100 files added (on-disk size: 17907.2 KB)
+0003.636 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3200 files added (on-disk size: 17907.2 KB)
+0003.642 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3300 files added (on-disk size: 17907.2 KB)
+0003.647 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3400 files added (on-disk size: 17907.2 KB)
+0003.652 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3500 files added (on-disk size: 17907.2 KB)
+0003.656 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3600 files added (on-disk size: 17907.2 KB)
+0003.662 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3700 files added (on-disk size: 17907.2 KB)
+0003.666 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3800 files added (on-disk size: 17907.2 KB)
+0003.671 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 3900 files added (on-disk size: 17907.2 KB)
+0003.676 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4000 files added (on-disk size: 17907.2 KB)
+0003.678 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (2.1 MB, 10608 files batched, 1001 (4004) added so far); re-opening (prior size: 17907.2 KB)
+0004.117 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4100 files added (on-disk size: 18726.4 KB)
+0004.122 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4200 files added (on-disk size: 18726.4 KB)
+0004.127 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4300 files added (on-disk size: 18726.4 KB)
+0004.131 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4400 files added (on-disk size: 18726.4 KB)
+0004.136 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4500 files added (on-disk size: 18726.4 KB)
+0004.141 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4600 files added (on-disk size: 18726.4 KB)
+0004.146 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4700 files added (on-disk size: 18726.4 KB)
+0004.150 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4800 files added (on-disk size: 18726.4 KB)
+0004.154 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 4900 files added (on-disk size: 18726.4 KB)
+0004.159 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5000 files added (on-disk size: 18726.4 KB)
+0004.161 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.9 MB, 10608 files batched, 1001 (5005) added so far); re-opening (prior size: 18726.4 KB)
+0004.667 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5100 files added (on-disk size: 19972.4 KB)
+0004.672 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5200 files added (on-disk size: 19972.4 KB)
+0004.677 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5300 files added (on-disk size: 19972.4 KB)
+0004.681 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5400 files added (on-disk size: 19972.4 KB)
+0004.687 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5500 files added (on-disk size: 19972.4 KB)
+0004.691 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5600 files added (on-disk size: 19972.4 KB)
+0004.695 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5700 files added (on-disk size: 19972.4 KB)
+0004.700 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5800 files added (on-disk size: 19972.4 KB)
+0004.704 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 5900 files added (on-disk size: 19972.4 KB)
+0004.709 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6000 files added (on-disk size: 19972.4 KB)
+0004.711 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.5 MB, 10608 files batched, 1001 (6006) added so far); re-opening (prior size: 19972.4 KB)
+0005.810 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6100 files added (on-disk size: 22170 KB)
+0005.815 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6200 files added (on-disk size: 22170 KB)
+0005.820 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6300 files added (on-disk size: 22170 KB)
+0005.824 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6400 files added (on-disk size: 22170 KB)
+0005.829 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6500 files added (on-disk size: 22170 KB)
+0005.834 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6600 files added (on-disk size: 22170 KB)
+0005.838 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6700 files added (on-disk size: 22170 KB)
+0005.843 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6800 files added (on-disk size: 22170 KB)
+0005.847 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 6900 files added (on-disk size: 22170 KB)
+0005.852 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7000 files added (on-disk size: 22170 KB)
+0005.854 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.3 MB, 10608 files batched, 1001 (7007) added so far); re-opening (prior size: 22170 KB)
+0006.839 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7100 files added (on-disk size: 26637.3 KB)
+0006.844 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7200 files added (on-disk size: 26637.3 KB)
+0006.849 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7300 files added (on-disk size: 26637.3 KB)
+0006.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.4 MB, 10608 files batched, 309 (7316) added so far); re-opening (prior size: 26637.3 KB)
+0008.030 (0) A useful amount of data was added after this amount of zip processing: 1.7 s (normalised: 1.7 s, rate: 14887.6 KB/s)
+0008.033 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.7443380355835, normalised_time=1.7195501673436, max_time=8.0309958457947, data points known=1, old_max_bytes=26214400, new_max_bytes=91469503)
+0008.052 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7400 files added (on-disk size: 32151.8 KB)
+0008.056 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7500 files added (on-disk size: 32151.8 KB)
+0008.061 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7600 files added (on-disk size: 32151.8 KB)
+0008.066 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7700 files added (on-disk size: 32151.8 KB)
+0008.070 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7800 files added (on-disk size: 32151.8 KB)
+0008.075 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 7900 files added (on-disk size: 32151.8 KB)
+0008.079 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8000 files added (on-disk size: 32151.8 KB)
+0008.084 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8100 files added (on-disk size: 32151.8 KB)
+0008.088 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8200 files added (on-disk size: 32151.8 KB)
+0008.093 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8300 files added (on-disk size: 32151.8 KB)
+0008.095 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.3 MB, 10608 files batched, 1001 (8317) added so far); re-opening (prior size: 32151.8 KB)
+0009.878 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8400 files added (on-disk size: 41570 KB)
+0009.885 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8500 files added (on-disk size: 41570 KB)
+0009.890 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8600 files added (on-disk size: 41570 KB)
+0009.895 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8700 files added (on-disk size: 41570 KB)
+0009.899 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8800 files added (on-disk size: 41570 KB)
+0009.903 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 8900 files added (on-disk size: 41570 KB)
+0009.908 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9000 files added (on-disk size: 41570 KB)
+0009.913 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9100 files added (on-disk size: 41570 KB)
+0009.917 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9200 files added (on-disk size: 41570 KB)
+0009.922 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9300 files added (on-disk size: 41570 KB)
+0009.924 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.5 MB, 10608 files batched, 1001 (9318) added so far); re-opening (prior size: 41570 KB)
+0011.028 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9400 files added (on-disk size: 44374.3 KB)
+0011.033 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9500 files added (on-disk size: 44374.3 KB)
+0011.038 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9600 files added (on-disk size: 44374.3 KB)
+0011.044 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9700 files added (on-disk size: 44374.3 KB)
+0011.048 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9800 files added (on-disk size: 44374.3 KB)
+0011.054 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 9900 files added (on-disk size: 44374.3 KB)
+0011.059 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 10000 files added (on-disk size: 44374.3 KB)
+0011.064 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 10100 files added (on-disk size: 44374.3 KB)
+0011.068 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 10200 files added (on-disk size: 44374.3 KB)
+0011.073 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 10300 files added (on-disk size: 44374.3 KB)
+0011.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (24.3 MB, 10608 files batched, 1001 (10319) added so far); re-opening (prior size: 44374.3 KB)
+0012.914 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 10400 files added (on-disk size: 54992 KB)
+0012.919 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 10500 files added (on-disk size: 54992 KB)
+0012.924 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.tmp: 10600 files added (on-disk size: 54992 KB)
+0013.536 (0) Creating zip file manifest (backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.list-temp.tmp)
+0013.786 (0) Successfully created zip file manifest (size: 987626)
+0014.284 (0) Created plugins zip (0) - 55543.7 KB in 14.2 s (3905.8 KB/s) (sha1: 0c8ae08fffe0e24ab753ae73be14850ca66281b7, sha256: c8bc6ff5c137e2373041b5f9fb369adbcba9869991939d45612029205d5b625d)
+0014.293 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0014.294 (0) No remote despatch: user chose no remote backup service
+0014.296 (0) Recording as successfully uploaded: backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip
+0014.298 (0) Deleting zip manifest (backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip.list.tmp)
+0014.302 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0014.303 (0) Number of backup sets in history: 0; groups (db): 1
+0014.304 (0) Number of backup sets in history: 0; groups (files): 1
+0014.305 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0014.311 (0) Beginning creation of dump of themes (split every: 400 MB)
+0014.422 (0) Total entities for the zip file: 396 directories, 1214 files (0 skipped as non-modified), 37.8 MB
+0014.426 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.430 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0014.435 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0014.439 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0014.444 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0014.448 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0014.453 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0014.458 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0014.462 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0014.467 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0014.468 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (26.2 MB, 1214 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0015.489 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 1100 files added (on-disk size: 17007.6 KB)
+0015.494 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.tmp: 1200 files added (on-disk size: 17007.6 KB)
+0016.126 (0) Creating zip file manifest (backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.list-temp.tmp)
+0016.153 (0) Successfully created zip file manifest (size: 95510)
+0016.344 (0) Created themes zip (0) - 20738.9 KB in 2 s (10220.5 KB/s) (sha1: 1047172e0b45b55e0acef6ed8078bf86c05af0cc, sha256: 5e54da90909b7e4c3404b58506d017453c32e66c604ee3c1340e7730224fbd94)
+0016.350 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0016.351 (0) No remote despatch: user chose no remote backup service
+0016.352 (0) Recording as successfully uploaded: backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip
+0016.355 (0) Deleting zip manifest (backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip.list.tmp)
+0016.359 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0016.361 (0) Number of backup sets in history: 0; groups (db): 1
+0016.362 (0) Number of backup sets in history: 0; groups (files): 1
+0016.364 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0016.370 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0016.372 (0) Looking for candidates to backup in: /var/www/html/wp-content/uploads
+0016.373 (0) finding files: 2025: adding to list (1)
+0016.375 (0) finding files: ast-block-templates-json: adding to list (2)
+0016.376 (0) finding files: ai-builder: adding to list (3)
+0016.377 (0) finding files: astra-docs: adding to list (4)
+0016.379 (0) finding files: wpforms: adding to list (5)
+0016.380 (0) finding files: elementor: adding to list (6)
+0016.381 (0) finding files: astra-sites: adding to list (7)
+0016.383 (0) finding files: uag-plugin: adding to list (8)
+0016.384 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0016.408 (0) Total entities for the zip file: 21 directories, 389 files (0 skipped as non-modified), 52.9 MB
+0016.412 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0016.417 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.421 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0017.247 (0) Creating zip file manifest (backup_2025-06-15-2223_Tanji_4ba177c2c047-uploads.zip.list-temp.tmp)
+0017.258 (0) Successfully created zip file manifest (size: 25065)
+0017.579 (0) Created uploads zip (0) - 34638.7 KB in 1.2 s (29077.7 KB/s) (sha1: 68f6923683924ec8e5548b3a9cbd7b5c74189521, sha256: 3f29ff5e56061a038f235fe924880241794a76d96fbe79dfdcfe926493bdfa7f)
+0017.583 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0017.584 (0) No remote despatch: user chose no remote backup service
+0017.585 (0) Recording as successfully uploaded: backup_2025-06-15-2223_Tanji_4ba177c2c047-uploads.zip
+0017.588 (0) Deleting zip manifest (backup_2025-06-15-2223_Tanji_4ba177c2c047-uploads.zip.list.tmp)
+0017.590 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0017.592 (0) Number of backup sets in history: 0; groups (db): 1
+0017.593 (0) Number of backup sets in history: 0; groups (files): 1
+0017.594 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0017.599 (0) No backup of mu-plugins: excluded by user's options
+0017.602 (0) Beginning backup of other directories found in the content directory (index: 0)
+0017.603 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0017.604 (0) Looking for candidates to backup in: /var/www/html/wp-content
+0017.605 (0) finding files: upgrade: skipping: excluded by options
+0017.606 (0) finding files: .DS_Store: adding to list (1)
+0017.607 (0) finding files: index.php: adding to list (2)
+0017.608 (0) finding files: upgrade-temp-backup: adding to list (3)
+0017.609 (0) finding files: plugins: skipping: this is the plugins directory
+0017.610 (0) finding files: uploads: skipping: this is the uploads directory
+0017.611 (0) finding files: updraft: skipping: this is the updraft directory
+0017.612 (0) finding files: languages: adding to list (4)
+0017.613 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0017.614 (0) finding files: themes: skipping: this is the themes directory
+0017.624 (0) Total entities for the zip file: 5 directories, 159 files (0 skipped as non-modified), 5.4 MB
+0017.629 (0) Zip: backup_2025-06-15-2223_Tanji_4ba177c2c047-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.914 (0) Creating zip file manifest (backup_2025-06-15-2223_Tanji_4ba177c2c047-others.zip.list-temp.tmp)
+0017.923 (0) Successfully created zip file manifest (size: 10598)
+0017.959 (0) Created others zip (0) - 1602.1 KB in 0.3 s (4710.1 KB/s) (sha1: 85e4172f315c6d7c530c1d01749c8d15defcb46d, sha256: d54565002f2157227f4623a03f62190c3e1db55ccc5a5d19033ea54f1134da44)
+0017.967 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0017.969 (0) No remote despatch: user chose no remote backup service
+0017.970 (0) Recording as successfully uploaded: backup_2025-06-15-2223_Tanji_4ba177c2c047-others.zip
+0017.972 (0) Deleting zip manifest (backup_2025-06-15-2223_Tanji_4ba177c2c047-others.zip.list.tmp)
+0017.975 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0017.977 (0) Number of backup sets in history: 0; groups (db): 1
+0017.979 (0) Number of backup sets in history: 0; groups (files): 1
+0017.980 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0017.991 (0) Saving backup status to database (elements: 8)
+0017.995 (0) Beginning creation of database dump (WordPress DB)
+0017.997 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0018.037 (0) Table wp_options: Total expected rows (via COUNT): 415
+0018.038 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.101 (0) Table wp_options: Rows added in this batch (next record: 2239): 411 (uncompressed bytes in this segment=3469971) in 0.09 seconds
+0018.114 (0) Table wp_options: finishing file(s) (2, 428.3 KB)
+0018.124 (0) Table wp_users: Total expected rows (via COUNT): 1
+0018.126 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.133 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1411) in 0.01 seconds
+0018.150 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0018.165 (0) Table wp_usermeta: Total expected rows (via COUNT): 35
+0018.166 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.175 (0) Table wp_usermeta: Rows added in this batch (next record: 35): 35 (uncompressed bytes in this segment=4916) in 0.02 seconds
+0018.196 (0) Table wp_usermeta: finishing file(s) (2, 2.4 KB)
+0018.214 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0018.219 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.02 seconds
+0018.232 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0018.247 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0018.249 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.256 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2194) in 0.02 seconds
+0018.269 (0) Table wp_comments: finishing file(s) (2, 0.9 KB)
+0018.277 (0) Table wp_links: Total expected rows (via COUNT): 0
+0018.280 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.00 seconds
+0018.291 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0018.365 (0) Table wp_postmeta: Total expected rows (approximate): 3068
+0018.527 (0) Table wp_postmeta: Rows added in this batch (next record: 4207): 2690 (uncompressed bytes in this segment=10850784) in 0.23 seconds
+0018.537 (0) Table wp_postmeta: finishing file(s) (2, 1041.5 KB)
+0018.581 (0) Table wp_posts: Total expected rows (via COUNT): 486
+0018.582 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.687 (0) Table wp_posts: Rows added in this batch (next record: 1417): 486 (uncompressed bytes in this segment=6686914) in 0.15 seconds
+0018.696 (0) Table wp_posts: finishing file(s) (2, 1064.3 KB)
+0018.703 (0) Table wp_term_relationships: Total expected rows (approximate): 20
+0018.707 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 20 (uncompressed bytes in this segment=964) in 0.00 seconds
+0018.714 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0018.723 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 9
+0018.724 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.727 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1175) in 0.01 seconds
+0018.734 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0018.740 (0) Table wp_termmeta: Total expected rows (via COUNT): 4
+0018.742 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.744 (0) Table wp_termmeta: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=848) in 0.01 seconds
+0018.750 (0) Table wp_termmeta: finishing file(s) (2, 0.5 KB)
+0018.755 (0) Table wp_terms: Total expected rows (via COUNT): 9
+0018.756 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.758 (0) Table wp_terms: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1011) in 0.00 seconds
+0018.763 (0) Table wp_terms: finishing file(s) (2, 0.6 KB)
+0018.771 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 5
+0018.772 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.774 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 21): 5 (uncompressed bytes in this segment=3288) in 0.01 seconds
+0018.782 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 0.9 KB)
+0018.789 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0018.795 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=602) in 0.01 seconds
+0018.803 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0018.810 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0018.812 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.814 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=759) in 0.01 seconds
+0018.820 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0018.826 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 5
+0018.828 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.830 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1196) in 0.01 seconds
+0018.836 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.5 KB)
+0018.840 (0) Table wp_e_events: Total expected rows (via COUNT): 2
+0018.841 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.844 (0) Table wp_e_events: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=972) in 0.00 seconds
+0018.849 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0018.857 (0) Table wp_nextend2_image_storage: Total expected rows (via COUNT): 7
+0018.859 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.860 (0) Table wp_nextend2_image_storage: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=2062) in 0.01 seconds
+0018.865 (0) Table wp_nextend2_image_storage: finishing file(s) (2, 0.8 KB)
+0018.873 (0) Table wp_nextend2_section_storage: Total expected rows (via COUNT): 7
+0018.874 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.877 (0) Table wp_nextend2_section_storage: Rows added in this batch (next record: 10546): 7 (uncompressed bytes in this segment=23663) in 0.00 seconds
+0018.882 (0) Table wp_nextend2_section_storage: finishing file(s) (2, 5.1 KB)
+0018.887 (0) Table wp_nextend2_smartslider3_generators: Total expected rows (via COUNT): 0
+0018.890 (0) Table wp_nextend2_smartslider3_generators: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=714) in 0.00 seconds
+0018.895 (0) Table wp_nextend2_smartslider3_generators: finishing file(s) (2, 0.4 KB)
+0018.901 (0) Table wp_nextend2_smartslider3_sliders: Total expected rows (via COUNT): 1
+0018.903 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.906 (0) Table wp_nextend2_smartslider3_sliders: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=10615) in 0.01 seconds
+0018.910 (0) Table wp_nextend2_smartslider3_sliders: finishing file(s) (2, 2.4 KB)
+0018.917 (0) Table wp_nextend2_smartslider3_sliders_xref: Total expected rows (approximate): 0
+0018.922 (0) Table wp_nextend2_smartslider3_sliders_xref: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=649) in 0.01 seconds
+0018.928 (0) Table wp_nextend2_smartslider3_sliders_xref: finishing file(s) (2, 0.3 KB)
+0018.934 (0) Table wp_nextend2_smartslider3_slides: Total expected rows (via COUNT): 5
+0018.935 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.937 (0) Table wp_nextend2_smartslider3_slides: Rows added in this batch (next record: 7): 5 (uncompressed bytes in this segment=2463) in 0.01 seconds
+0018.943 (0) Table wp_nextend2_smartslider3_slides: finishing file(s) (2, 0.7 KB)
+0018.948 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 0
+0018.951 (0) Table wp_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=736) in 0.00 seconds
+0018.956 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.4 KB)
+0018.962 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0018.964 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.00 seconds
+0018.972 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0018.979 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0018.982 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1958) in 0.00 seconds
+0018.987 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0018.993 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 0
+0018.996 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=601) in 0.01 seconds
+0019.003 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.3 KB)
+0019.004 (0) PHP event: code E_WARNING: filemtime(): stat failed for /var/www/html/wp-content/updraft/backup_2025-06-15-2223_Tanji_4ba177c2c047-db.gz (line 1923, wp-content/plugins/updraftplus/backup.php)
+0019.007 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_options.table.tmpr2240.gz (1/27/fopen): adding to final database dump
+0019.046 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_options.table.gz (2/27/fopen): adding to final database dump
+0019.048 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_users.table.tmpr2.gz (3/27/fopen): adding to final database dump
+0019.049 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_users.table.gz (4/27/fopen): adding to final database dump
+0019.050 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_usermeta.table.tmpr36.gz (5/27/fopen): adding to final database dump
+0019.052 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_usermeta.table.gz (6/27/fopen): adding to final database dump
+0019.053 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_commentmeta.table.tmpr0.gz (7/27/fopen): adding to final database dump
+0019.055 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_commentmeta.table.gz (8/27/fopen): adding to final database dump
+0019.057 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_comments.table.tmpr2.gz (9/27/fopen): adding to final database dump
+0019.058 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_comments.table.gz (10/27/fopen): adding to final database dump
+0019.060 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_links.table.tmpr0.gz (11/27/fopen): adding to final database dump
+0019.061 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_links.table.gz (12/27/fopen): adding to final database dump
+0019.062 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_postmeta.table.tmpr4208.gz (13/27/fopen): adding to final database dump
+0019.169 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_postmeta.table.gz (14/27/fopen): adding to final database dump
+0019.171 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_posts.table.tmpr1418.gz (15/27/fopen): adding to final database dump
+0019.279 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_posts.table.gz (16/27/fopen): adding to final database dump
+0019.281 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_term_relationships.table.tmpr100001.gz (17/27/fopen): adding to final database dump
+0019.283 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_term_relationships.table.gz (18/27/fopen): adding to final database dump
+0019.284 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_term_taxonomy.table.tmpr10.gz (19/27/fopen): adding to final database dump
+0019.285 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_term_taxonomy.table.gz (20/27/fopen): adding to final database dump
+0019.286 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_termmeta.table.tmpr5.gz (21/27/fopen): adding to final database dump
+0019.287 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_termmeta.table.gz (22/27/fopen): adding to final database dump
+0019.289 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_terms.table.tmpr10.gz (23/27/fopen): adding to final database dump
+0019.290 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_terms.table.gz (24/27/fopen): adding to final database dump
+0019.291 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_actionscheduler_actions.table.tmpr22.gz (25/27/fopen): adding to final database dump
+0019.292 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_actionscheduler_actions.table.gz (26/27/fopen): adding to final database dump
+0019.294 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_actionscheduler_claims.table.tmpr0.gz (27/27/fopen): adding to final database dump
+0019.296 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_actionscheduler_claims.table.gz (28/27/fopen): adding to final database dump
+0019.297 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_actionscheduler_groups.table.tmpr4.gz (29/27/fopen): adding to final database dump
+0019.299 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_actionscheduler_groups.table.gz (30/27/fopen): adding to final database dump
+0019.300 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_actionscheduler_logs.table.tmpr6.gz (31/27/fopen): adding to final database dump
+0019.301 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_actionscheduler_logs.table.gz (32/27/fopen): adding to final database dump
+0019.303 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_e_events.table.tmpr3.gz (33/27/fopen): adding to final database dump
+0019.304 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_e_events.table.gz (34/27/fopen): adding to final database dump
+0019.304 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_image_storage.table.tmpr8.gz (35/27/fopen): adding to final database dump
+0019.306 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_image_storage.table.gz (36/27/fopen): adding to final database dump
+0019.307 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_section_storage.table.tmpr10547.gz (37/27/fopen): adding to final database dump
+0019.308 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_section_storage.table.gz (38/27/fopen): adding to final database dump
+0019.309 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_smartslider3_generators.table.tmpr0.gz (39/27/fopen): adding to final database dump
+0019.310 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_smartslider3_generators.table.gz (40/27/fopen): adding to final database dump
+0019.311 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_smartslider3_sliders.table.tmpr2.gz (41/27/fopen): adding to final database dump
+0019.313 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_smartslider3_sliders.table.gz (42/27/fopen): adding to final database dump
+0019.314 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_smartslider3_sliders_xref.table.tmpr1.gz (43/27/fopen): adding to final database dump
+0019.315 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_smartslider3_sliders_xref.table.gz (44/27/fopen): adding to final database dump
+0019.316 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_smartslider3_slides.table.tmpr8.gz (45/27/fopen): adding to final database dump
+0019.318 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_nextend2_smartslider3_slides.table.gz (46/27/fopen): adding to final database dump
+0019.319 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_wpforms_logs.table.tmpr0.gz (47/27/fopen): adding to final database dump
+0019.321 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_wpforms_logs.table.gz (48/27/fopen): adding to final database dump
+0019.322 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (49/27/fopen): adding to final database dump
+0019.324 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_wpforms_payment_meta.table.gz (50/27/fopen): adding to final database dump
+0019.325 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_wpforms_payments.table.tmpr0.gz (51/27/fopen): adding to final database dump
+0019.326 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_wpforms_payments.table.gz (52/27/fopen): adding to final database dump
+0019.328 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_wpforms_tasks_meta.table.tmpr0.gz (53/27/fopen): adding to final database dump
+0019.329 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db-table-wp_wpforms_tasks_meta.table.gz (54/27/fopen): adding to final database dump
+0019.351 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db.gz: finished writing out complete database file (2555 KB)
+0019.387 (0) Total database tables backed up: 27 (backup_2025-06-15-2223_Tanji_4ba177c2c047-db.gz, size: 2616469, sha1: 074f5da71a89123ef3026aac5589f0ad9bc2591d, sha256: 0203eec0e5b6760c7ccbc05335e9fa543f8f4b730cc5f22250a7986e14863f52)
+0019.393 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-plugins.zip: plugins: This file has already been successfully processed
+0019.394 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-themes.zip: themes: This file has already been successfully processed
+0019.395 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-uploads.zip: uploads: This file has already been successfully processed
+0019.396 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-others.zip: others: This file has already been successfully processed
+0019.397 (0) backup_2025-06-15-2223_Tanji_4ba177c2c047-db.gz: db: This file has not yet been successfully uploaded: will queue
+0019.398 (0) Saving backup history. Total backup size: 112.4 MB
+0019.401 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0019.404 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0019.405 (0) No remote despatch: user chose no remote backup service
+0019.405 (0) Recording as successfully uploaded: backup_2025-06-15-2223_Tanji_4ba177c2c047-db.gz
+0019.409 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0019.410 (0) Number of backup sets in history: 1; groups (db): 1
+0019.411 (0) Examining (for databases) backup set with group_id=0, nonce=4ba177c2c047, datestamp=1749997380 (Jun 15 2025 14:23:00)
+0019.413 (0) This backup set is the backup set just made, so will not be deleted.
+0019.413 (0) Number of backup sets in history: 1; groups (files): 1
+0019.413 (0) Examining (for files) backup set with nonce=4ba177c2c047, datestamp=1749997380 (Jun 15 2025 14:23:00)
+0019.413 (0) This backup set is the backup set just made, so will not be deleted.
+0019.414 (0) This backup set is the backup set just made, so will not be deleted.
+0019.414 (0) This backup set is the backup set just made, so will not be deleted.
+0019.414 (0) This backup set is the backup set just made, so will not be deleted.
+0019.415 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0019.416 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0019.419 (0) Resume backup (4ba177c2c047, 0): finish run
+0019.422 (0) Decremented the semaphore (fd) by 1
+0019.424 (0) Semaphore (fd) unlocked
+0019.425 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0019.429 (0) No email will/can be sent - the user has not configured an email address.
+0019.431 (0) The backup succeeded and is now complete
